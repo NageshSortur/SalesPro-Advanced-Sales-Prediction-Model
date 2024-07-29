@@ -18,3 +18,7 @@ The application provides accurate sales predictions and valuable insights, such 
 
 Items with visibility less than 0.2 had the highest sales.
 Anomalies detected in the Health and Hygiene category indicate potential issues or opportunities.
+
+
+
+
